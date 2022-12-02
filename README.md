@@ -12,4 +12,4 @@ Simple registration form, created to receive and store some information from Cot
 * `SQL:` Database creation and manipulation
 
 # 📁 Project access
-You can [access the source code](https://github.com/ArturColen/StudentRegistration).
+You can [access the source code](https://github.com/ArturColen/StudentRegistration)..
