@@ -19,7 +19,7 @@ namespace StudentRegistration
 
         StudentConnection db = new StudentConnection();
 
-        // Method for entering data into the database
+        // Enter data into the database
         private void btnRegister_Click(object sender, EventArgs e)
         {
             string insert;
@@ -48,7 +48,7 @@ namespace StudentRegistration
             }
         }
 
-        // Method for changing data in the database
+        // Change the data of the database
         private void btnChange_Click(object sender, EventArgs e)
         {
             string change;
@@ -68,7 +68,7 @@ namespace StudentRegistration
             }
         }
 
-        // Method for showing data from the database to the user
+        // Show database data to the user
         private void btnSearch_Click(object sender, EventArgs e)
         {
             string select = "select * from students order by name";
@@ -83,7 +83,7 @@ namespace StudentRegistration
             Close();
         }
 
-        // Method for deleting user data
+        // Delete user data
         private void btnDelete_Click(object sender, EventArgs e)
         {
             string delete;
@@ -109,7 +109,7 @@ namespace StudentRegistration
             }
         }
 
-        // Method for inserting the data from the database into the form fields
+        // Insert the data from the database into the form fields
         private void dtgStudent_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
             txtID.Text = dtgStudent.Rows[e.RowIndex].Cells[0].Value.ToString();
