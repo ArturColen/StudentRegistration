@@ -12,7 +12,7 @@ namespace StudentRegistration
     {
         MySqlConnection con;
 
-        // Method for connecting the form to the database
+        // Connect the form to the database
         public void ConnectDB()
         {
             try
@@ -26,7 +26,7 @@ namespace StudentRegistration
             }
         }
 
-        // Method to execute CRUD commands
+        // Execute CRUD commands
         public void executeCommands(String sql)
         {
             try
@@ -45,7 +45,7 @@ namespace StudentRegistration
             }
         }
 
-        // Method to execute the database query
+        // Execute the database query
         public DataTable executeQuery(String sql)
         {
             try
