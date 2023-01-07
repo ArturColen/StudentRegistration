@@ -1,4 +1,4 @@
-# Creation of a student registration form
+# Student registration form
 
 The project developed was the last work of the year in the Logic and Programming course at [Colégio Cotemig](https://www.cotemig.com.br/), consisting of a form created through the .NET Framework and linked to an SQL database.
 
