@@ -47,6 +47,6 @@ create table students(
 * If a warning appears on your screen, click on `Overwrite` and then `OK` (leave the password space empty)
 
 ### 6. Run the project
-* Go back to Visual Studio (in the project that was cloned) and click on `StudentRegistration.sln` in the 'Solution Explorer' area (right side of the screen) 
+* Go back to Visual Studio (in the project that was cloned) and click on `StudentRegistration.sln` in the `Solution Explorer` area (right side of the screen) 
 * Now, click on the arrow next to the `StudentRegistration` and finally double-click on the `FrmStudentRegistration.cs`
 * When a screen similar to the one shown at the beginning of README.md appears, click `F5` on your keyboard or the `▶️ Start` button (top of the screen) to test the program
