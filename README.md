@@ -3,10 +3,10 @@ The project developed was the last work of the year in the Logic and Programming
 
 ![Image of the registration form](https://user-images.githubusercontent.com/96635074/205149428-84593829-7b32-45b3-a85a-a391cf26d315.png)
 
-# 🔨 Project functionality
+## 🔨 Project functionality
 Simple registration form, created to receive and store some information from Cotemig students in a database.
 
-# 💻 Technologies used 
+## 💻 Technologies used 
 * [C#](https://learn.microsoft.com/pt-br/dotnet/csharp/): programming language
 * [.NET Framework](https://learn.microsoft.com/pt-br/dotnet/framework/): platform for developing and running systems and applications
 * [SQL](https://www.oracle.com/br/database/technologies/appdev/sql.html): Database creation and manipulation
