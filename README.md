@@ -22,8 +22,8 @@ Simple registration form, created to receive and store some information from Cot
 * In the appropriate spaces paste the URL, select where you want to save the project and click the `clone` button
 * Wait a while until cloning is complete
 
-### 3. Install and configure [MySQL Workbench](https://youtu.be/a5ul8o76Hqw) and [WampServer](https://www.youtube.com/watch?v=1cnXP8uw5gI) on your computer 
-* I recommend watching [this video](https://www.youtube.com/watch?v=KKaDlo1I21Y) to help you
+### 3. Install and configure [MySQL Workbench](https://www.mysql.com/products/workbench/) and [WampServer](https://www.youtube.com/watch?v=1cnXP8uw5gI) on your computer 
+* I recommend watching [this video](https://youtu.be/a5ul8o76Hqw) to help you
 
 ### 4. Copy and paste the code below to create the database
 ```
